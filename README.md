@@ -1,7 +1,7 @@
 Dirichlet Graph Auto-Encoders
 ============
 
-This is a TensorFlow implementation of the Dirchlet Graph Variational Auto-Encoder model (DGVAE).
+This is a TensorFlow implementation of the [Dirchlet Graph Variational Auto-Encoder model (DGVAE)](https://arxiv.org/abs/2010.04408), NIPS 2020.
  
 
 DGVAE is an end-to-end trainable neural network model for unsupervised learning, generation and clustering on graphs. This code is more related to graph generation, as described in our paper. 
